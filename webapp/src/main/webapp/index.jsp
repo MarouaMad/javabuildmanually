@@ -1,4 +1,4 @@
-<h1> Hello, Welcome to DevOps training  !!! GTA  v1 </h1>
+<h1> Hello, Welcome to DevOps training  !!! GTA  v2 </h1>
 Jenkins :
 *********<br> 
 Clone<br>
