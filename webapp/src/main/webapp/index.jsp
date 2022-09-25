@@ -1,5 +1,5 @@
 =======
-<h1> Hello, Welcome to DevOps training  !!! GTA  v5 </h1>
+<h1> Hello, Welcome to DevOps training  !!! GTA  v6 </h1>
 Jenkins :
 *********<br> 
 Clone<br>
@@ -11,7 +11,7 @@ Clone<br>
 						Deploy <br>
 
 
-						webhook 
+						Piepline
 ************************************************************<br>
 
 
