@@ -1,5 +1,5 @@
 =======
-<h1> Hello, Welcome to DevOps training  !!! GTA  v12 </h1>
+<h1> Hello, Welcome to DevOps training  !!! GTA  v14 </h1>
 Jenkins :
 *********<br> 
 Clone<br>
@@ -11,7 +11,7 @@ Clone<br>
 						Deploy <br>
 
 
-Bonjour GTA H 12/00
+Bonjour GTA H 12:05
 
 
 12/11/2022
