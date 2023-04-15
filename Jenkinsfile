@@ -22,7 +22,7 @@ node {
     nexusVersion: 'nexus3', 
     protocol: 'http', 
     repository: 'projet1_j2e', 
-    version: '1.0-SNAPSHOT'
+    version: '1.0.0'
 
   }
 
