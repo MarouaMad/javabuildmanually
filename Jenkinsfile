@@ -22,7 +22,8 @@ node {
     nexusVersion: 'nexus3', 
     protocol: 'http', 
     repository: 'projet1_j2e', 
-    version: '1.0.0'
+    #version: '1.0.0'
+    version: "version '${env.JOB_NAME} [${env.BUILD_NUMBER}]'" 
 
   }
 
